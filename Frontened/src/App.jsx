@@ -6,6 +6,7 @@ import About from "./pages/About";
 import Login from "./pages/Login";
 import Signup from "./Signup"; // Import the Signup component
 import Analyze from "./Analyze"
+import paymentSuccess from "./pages/paymentSuccess";
 const App = () => {
   return (
     <Router>
@@ -16,6 +17,7 @@ const App = () => {
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} /> {/* Add the Signup route */}
         <Route path="/analyze" element={<Analyze />} />
+        <Route path="/paymentsuccess" element={<paymenSuccess />} />
 
       </Routes>
     </Router>

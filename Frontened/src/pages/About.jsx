@@ -11,6 +11,7 @@ const About = () => {
         {/* Header */}
         <h1 className="text-5xl font-extrabold text-center text-indigo-900 mb-6 animate__animated animate__fadeIn">
           About Fake News Detector
+         
         </h1>
         <p className="text-lg leading-8 text-center max-w-4xl mx-auto mb-12 text-gray-700">
           The Fake News Detector is a powerful AI-driven platform designed to combat the spread of misinformation in today's digital age.
