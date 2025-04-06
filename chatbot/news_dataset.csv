@@ -1,0 +1,101 @@
+News_ID,Title,Content,Category,Date,Sentiment
+101,Bitcoin Hits New High,Bitcoin reached $70K...,Crypto,2024-01-10,Positive
+102,AI in Healthcare,AI helps diagnose diseases...,Technology,2024-01-15,Neutral
+103,Stock Market Crash,Market down 5% in one day...,Finance,2024-02-05,Negative
+104,NASA Discovers New Planet,NASA scientists discover an Earth-like planet...,Science,2024-02-10,Positive
+105,Elections 2024 Begin,The national elections have started...,Politics,2024-03-05,Neutral
+106,Electric Cars Gaining Popularity,Sales of electric cars doubled this year...,Technology,2024-03-10,Positive
+107,Major Earthquake in Japan,A 7.8 magnitude earthquake hits Tokyo...,Environment,2024-03-20,Negative
+108,COVID-19 Cases Declining,The global cases of COVID-19 are decreasing...,Health,2024-04-01,Positive
+109,Tesla Unveils New Model,Tesla introduces a self-driving car...,Technology,2024-04-15,Positive
+110,Oil Prices Surge,Oil prices increase by 10% due to supply issues...,Finance,2024-05-01,Negative
+111,News Headline 111,Detailed description of news article 111 related to Sports...,Sports,2024-04-28,Positive
+112,News Headline 112,Detailed description of news article 112 related to Crypto...,Crypto,2024-05-01,Negative
+113,News Headline 113,Detailed description of news article 113 related to Technology...,Technology,2024-06-02,Neutral
+114,News Headline 114,Detailed description of news article 114 related to Finance...,Finance,2024-07-03,Positive
+115,News Headline 115,Detailed description of news article 115 related to Science...,Science,2024-08-04,Negative
+116,News Headline 116,Detailed description of news article 116 related to Politics...,Politics,2024-09-05,Neutral
+117,News Headline 117,Detailed description of news article 117 related to Environment...,Environment,2024-10-06,Positive
+118,News Headline 118,Detailed description of news article 118 related to Health...,Health,2024-11-07,Negative
+119,News Headline 119,Detailed description of news article 119 related to Sports...,Sports,2024-12-08,Neutral
+120,News Headline 120,Detailed description of news article 120 related to Crypto...,Crypto,2024-01-09,Positive
+121,News Headline 121,Detailed description of news article 121 related to Technology...,Technology,2024-02-10,Negative
+122,News Headline 122,Detailed description of news article 122 related to Finance...,Finance,2024-03-11,Neutral
+123,News Headline 123,Detailed description of news article 123 related to Science...,Science,2024-04-12,Positive
+124,News Headline 124,Detailed description of news article 124 related to Politics...,Politics,2024-05-13,Negative
+125,News Headline 125,Detailed description of news article 125 related to Environment...,Environment,2024-06-14,Neutral
+126,News Headline 126,Detailed description of news article 126 related to Health...,Health,2024-07-15,Positive
+127,News Headline 127,Detailed description of news article 127 related to Sports...,Sports,2024-08-16,Negative
+128,News Headline 128,Detailed description of news article 128 related to Crypto...,Crypto,2024-09-17,Neutral
+129,News Headline 129,Detailed description of news article 129 related to Technology...,Technology,2024-10-18,Positive
+130,News Headline 130,Detailed description of news article 130 related to Finance...,Finance,2024-11-19,Negative
+131,News Headline 131,Detailed description of news article 131 related to Science...,Science,2024-12-20,Neutral
+132,News Headline 132,Detailed description of news article 132 related to Politics...,Politics,2024-01-21,Positive
+133,News Headline 133,Detailed description of news article 133 related to Environment...,Environment,2024-02-22,Negative
+134,News Headline 134,Detailed description of news article 134 related to Health...,Health,2024-03-23,Neutral
+135,News Headline 135,Detailed description of news article 135 related to Sports...,Sports,2024-04-24,Positive
+136,News Headline 136,Detailed description of news article 136 related to Crypto...,Crypto,2024-05-25,Negative
+137,News Headline 137,Detailed description of news article 137 related to Technology...,Technology,2024-06-26,Neutral
+138,News Headline 138,Detailed description of news article 138 related to Finance...,Finance,2024-07-27,Positive
+139,News Headline 139,Detailed description of news article 139 related to Science...,Science,2024-08-28,Negative
+140,News Headline 140,Detailed description of news article 140 related to Politics...,Politics,2024-09-01,Neutral
+141,News Headline 141,Detailed description of news article 141 related to Environment...,Environment,2024-10-02,Positive
+142,News Headline 142,Detailed description of news article 142 related to Health...,Health,2024-11-03,Negative
+143,News Headline 143,Detailed description of news article 143 related to Sports...,Sports,2024-12-04,Neutral
+144,News Headline 144,Detailed description of news article 144 related to Crypto...,Crypto,2024-01-05,Positive
+145,News Headline 145,Detailed description of news article 145 related to Technology...,Technology,2024-02-06,Negative
+146,News Headline 146,Detailed description of news article 146 related to Finance...,Finance,2024-03-07,Neutral
+147,News Headline 147,Detailed description of news article 147 related to Science...,Science,2024-04-08,Positive
+148,News Headline 148,Detailed description of news article 148 related to Politics...,Politics,2024-05-09,Negative
+149,News Headline 149,Detailed description of news article 149 related to Environment...,Environment,2024-06-10,Neutral
+150,News Headline 150,Detailed description of news article 150 related to Health...,Health,2024-07-11,Positive
+151,News Headline 151,Detailed description of news article 151 related to Sports...,Sports,2024-08-12,Negative
+152,News Headline 152,Detailed description of news article 152 related to Crypto...,Crypto,2024-09-13,Neutral
+153,News Headline 153,Detailed description of news article 153 related to Technology...,Technology,2024-10-14,Positive
+154,News Headline 154,Detailed description of news article 154 related to Finance...,Finance,2024-11-15,Negative
+155,News Headline 155,Detailed description of news article 155 related to Science...,Science,2024-12-16,Neutral
+156,News Headline 156,Detailed description of news article 156 related to Politics...,Politics,2024-01-17,Positive
+157,News Headline 157,Detailed description of news article 157 related to Environment...,Environment,2024-02-18,Negative
+158,News Headline 158,Detailed description of news article 158 related to Health...,Health,2024-03-19,Neutral
+159,News Headline 159,Detailed description of news article 159 related to Sports...,Sports,2024-04-20,Positive
+160,News Headline 160,Detailed description of news article 160 related to Crypto...,Crypto,2024-05-21,Negative
+161,News Headline 161,Detailed description of news article 161 related to Technology...,Technology,2024-06-22,Neutral
+162,News Headline 162,Detailed description of news article 162 related to Finance...,Finance,2024-07-23,Positive
+163,News Headline 163,Detailed description of news article 163 related to Science...,Science,2024-08-24,Negative
+164,News Headline 164,Detailed description of news article 164 related to Politics...,Politics,2024-09-25,Neutral
+165,News Headline 165,Detailed description of news article 165 related to Environment...,Environment,2024-10-26,Positive
+166,News Headline 166,Detailed description of news article 166 related to Health...,Health,2024-11-27,Negative
+167,News Headline 167,Detailed description of news article 167 related to Sports...,Sports,2024-12-28,Neutral
+168,News Headline 168,Detailed description of news article 168 related to Crypto...,Crypto,2024-01-01,Positive
+169,News Headline 169,Detailed description of news article 169 related to Technology...,Technology,2024-02-02,Negative
+170,News Headline 170,Detailed description of news article 170 related to Finance...,Finance,2024-03-03,Neutral
+171,News Headline 171,Detailed description of news article 171 related to Science...,Science,2024-04-04,Positive
+172,News Headline 172,Detailed description of news article 172 related to Politics...,Politics,2024-05-05,Negative
+173,News Headline 173,Detailed description of news article 173 related to Environment...,Environment,2024-06-06,Neutral
+174,News Headline 174,Detailed description of news article 174 related to Health...,Health,2024-07-07,Positive
+175,News Headline 175,Detailed description of news article 175 related to Sports...,Sports,2024-08-08,Negative
+176,News Headline 176,Detailed description of news article 176 related to Crypto...,Crypto,2024-09-09,Neutral
+177,News Headline 177,Detailed description of news article 177 related to Technology...,Technology,2024-10-10,Positive
+178,News Headline 178,Detailed description of news article 178 related to Finance...,Finance,2024-11-11,Negative
+179,News Headline 179,Detailed description of news article 179 related to Science...,Science,2024-12-12,Neutral
+180,News Headline 180,Detailed description of news article 180 related to Politics...,Politics,2024-01-13,Positive
+181,News Headline 181,Detailed description of news article 181 related to Environment...,Environment,2024-02-14,Negative
+182,News Headline 182,Detailed description of news article 182 related to Health...,Health,2024-03-15,Neutral
+183,News Headline 183,Detailed description of news article 183 related to Sports...,Sports,2024-04-16,Positive
+184,News Headline 184,Detailed description of news article 184 related to Crypto...,Crypto,2024-05-17,Negative
+185,News Headline 185,Detailed description of news article 185 related to Technology...,Technology,2024-06-18,Neutral
+186,News Headline 186,Detailed description of news article 186 related to Finance...,Finance,2024-07-19,Positive
+187,News Headline 187,Detailed description of news article 187 related to Science...,Science,2024-08-20,Negative
+188,News Headline 188,Detailed description of news article 188 related to Politics...,Politics,2024-09-21,Neutral
+189,News Headline 189,Detailed description of news article 189 related to Environment...,Environment,2024-10-22,Positive
+190,News Headline 190,Detailed description of news article 190 related to Health...,Health,2024-11-23,Negative
+191,News Headline 191,Detailed description of news article 191 related to Sports...,Sports,2024-12-24,Neutral
+192,News Headline 192,Detailed description of news article 192 related to Crypto...,Crypto,2024-01-25,Positive
+193,News Headline 193,Detailed description of news article 193 related to Technology...,Technology,2024-02-26,Negative
+194,News Headline 194,Detailed description of news article 194 related to Finance...,Finance,2024-03-27,Neutral
+195,News Headline 195,Detailed description of news article 195 related to Science...,Science,2024-04-28,Positive
+196,News Headline 196,Detailed description of news article 196 related to Politics...,Politics,2024-05-01,Negative
+197,News Headline 197,Detailed description of news article 197 related to Environment...,Environment,2024-06-02,Neutral
+198,News Headline 198,Detailed description of news article 198 related to Health...,Health,2024-07-03,Positive
+199,News Headline 199,Detailed description of news article 199 related to Sports...,Sports,2024-08-04,Negative
+200,News Headline 200,Detailed description of news article 200 related to Crypto...,Crypto,2024-09-05,Neutral

@@ -4,6 +4,7 @@ import benefitsImage from "./benefits.webp";
 import innovationImage from "./innovation.jpeg";
 import extensionImage from "./extension-image.png";
 
+
 const About = () => {
   return (
     <div className="min-h-screen bg-gradient-to-r from-pink-100 via-rose-100 to-pink-200 text-gray-800 pt-16">
